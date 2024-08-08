@@ -13,7 +13,7 @@ ResuMatch is a Streamlit application that helps users review their resumes using
 
 - `app.py`: Main Streamlit application file.
 - `pdf_processing.py`: Handles PDF text extraction.
-- `ai_responses.py`: Manages AI model interaction and response caching.
+- `llm_response.py`: Manages AI model interaction and response caching.
 - `prompts.py`: Contains prompt templates used for AI interactions.
 - `responses.json`: Stores cached responses for faster processing.
 
